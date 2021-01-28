@@ -10,6 +10,7 @@ def compute_sum(ctx, param, value):
             total += value
             if value == 0:
                 if click.confirm("Do you want to exit? "):
+                    click.echo(f'Sum: {total}')
                     ctx.exit()
                     break
 
