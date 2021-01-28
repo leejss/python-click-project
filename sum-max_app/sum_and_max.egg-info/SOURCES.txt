@@ -1,0 +1,7 @@
+setup.py
+sum_and_max.egg-info/PKG-INFO
+sum_and_max.egg-info/SOURCES.txt
+sum_and_max.egg-info/dependency_links.txt
+sum_and_max.egg-info/entry_points.txt
+sum_and_max.egg-info/requires.txt
+sum_and_max.egg-info/top_level.txt
